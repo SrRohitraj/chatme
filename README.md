@@ -1,8 +1,5 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-![Demo App](https://i.ibb.co/gFSMzKN/1.png)
-
-[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
 
 Some Features:
 
@@ -35,3 +32,4 @@ npm run build
 ```shell
 npm start
 ```
+
